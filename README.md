@@ -1,6 +1,6 @@
 # Getting_Started_with_AI_Tutorial
 
-This tutorial is designed for the "Hands-on Seminar for Medical AI" collaboration with Kyusu University. 
+This tutorial is designed for the "Hands-on Seminar for Medical AI". 
 
 This repository consists of three materials
 1. Lecture powerpoint
