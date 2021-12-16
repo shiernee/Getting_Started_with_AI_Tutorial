@@ -2,8 +2,8 @@
 
 This tutorial is designed for the "Hands-on Seminar for Medical AI". 
 
-This repository consists of three materials
-1. Lecture powerpoint
+This repository consists of the following materials:
+1. Two lecture powerpoints
 2. Classification - AI_workshop_Day1.ipynb
 3. Regression - - AI_workshop_Day2.ipynb
 4. Classification with Medical Image -AI_workshop_Day2_2.ipynb
