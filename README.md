@@ -6,7 +6,8 @@ This repository consists of the following materials:
 1. 9 Dec 2024
   - One lecture powerpoint 
   - Classification - AI_workshop_Day1.ipynb
-    16 Dec 2024
+
+2. 16 Dec 2024
   - One lecture powerpoint
   - AI_workshop_Day2.ipynb
 
