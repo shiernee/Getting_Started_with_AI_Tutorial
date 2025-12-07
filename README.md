@@ -1,13 +1,12 @@
 # Getting_Started_with_AI_Tutorial
 
-This tutorial is designed for the "Hands-on Seminar for Medical AI 2022". 
 
 This repository consists of the following materials:
-1. 9 Dec 2024
+1. 8 Dec 2025
   - One lecture powerpoint 
   - Classification - AI_workshop_Day1.ipynb
 
-2. 16 Dec 2024
+2. 15 Dec 2025
   - One lecture powerpoint
   - AI_workshop_Day2.ipynb
 
